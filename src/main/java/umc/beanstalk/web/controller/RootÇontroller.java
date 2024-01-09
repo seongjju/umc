@@ -9,7 +9,7 @@ public class RootÇontroller {
 
     @GetMapping("health")
     public String healthCheck(){
-        return "I'm healthy sibal gae siba gesibal!";
+        return "I'm healthy sibal gae siba gesibal ahahah!";
     }
 }
 
